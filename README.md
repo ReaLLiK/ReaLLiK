@@ -1,16 +1,32 @@
-### Hi there 👋
+# ✌️: Hello there, I'm Yadahalvis Uladzimir and that's my gitHub page.
 
-<!--
-**ReaLLiK/ReaLLiK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🔗 Links
+- [Leetcode](https://leetcode.com/ReaLLiK/)
+- [GitLab](https://gitlab.com/ReaLLiK)
+- [Telegram](https://web.telegram.org/k/#@reallikxd)
+- [Instagram](https://www.instagram.com/reallikxd/)
 
-Here are some ideas to get you started:
+# 💻Specialisation
+- Data Preprocessing and Transformation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💼 Skills stack
+- C++ (_intermediate on C++ 98 standart_)
+- Java (_intermediate_)
+- C# (_intermediate_)
+  ### Languages
+  - English B2
+  - Russian (native)
+  - Belarusian (native)
+
+# 😃 My interests
+- 🤺 fencing
+- 🎮 games and their development
+- ⚕️ psychology and physiology
+- 🎵 music (used to play drums, guitar, flute and any percussion)
+
+# 🥇My achivements
+- Multiple prizewinner and champion of Belarus in fencing in every age
+- Master of sports
+- Multiple prizewinner of musical contest in Belarus on solo drums, xylophone and orchestra
+- 56th place in BSU_ICPC_2023
+- Multiple prizewinner in Belarusian and international olympics in math, science, chemistry, english(mostly in math)
