@@ -10,7 +10,7 @@
 - Data Preprocessing and Transformation
 
 # 💼 Skills stack
-- C++ (_intermediate on C++ 98 standart_)
+- C++ (_proficient on C++ 17/20 standart_)
 - Java (_intermediate_)
 - C# (_intermediate_)
   ### Languages
